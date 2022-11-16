@@ -35,8 +35,8 @@ dd {
 /*шрифты*/
 @font-face {
     font-family: 'Gotham Book';
-    src: url('/fonts/Gotham-Book.woff2') format('woff2'),
-    url('/fonts/Gotham-Book.woff') format('woff');
+    src: url('../fonts/Gotham-Book.woff2') format('woff2'),
+    url('../fonts/Gotham-Book.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -44,8 +44,8 @@ dd {
 
 @font-face {
     font-family: 'Gotham bold';
-    src: url('/fonts/Gotham-Black.woff2') format('woff2'),
-    url('/fonts/Gotham-Black.woff') format('woff');
+    src: url('../fonts/Gotham-Black.woff2') format('woff2'),
+    url('../fonts/Gotham-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -54,8 +54,8 @@ dd {
 
 @font-face {
     font-family: 'Gotham Medium';
-    src: url('/fonts/Gotham-Medium.woff2') format('woff2'),
-    url('/fonts/Gotham-Medium.woff') format('woff');
+    src: url('../fonts/Gotham-Medium.woff2') format('woff2'),
+    url('../fonts/Gotham-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -63,8 +63,8 @@ dd {
 
 @font-face {
     font-family: 'Gotham Thin';
-    src: url('/fonts/GothamCond-Thin.woff2') format('woff2'),
-    url('/fonts/GothamCond-Thin.woff') format('woff');
+    src: url('../fonts/GothamCond-Thin.woff2') format('woff2'),
+    url('../fonts/GothamCond-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -72,8 +72,8 @@ dd {
 
 @font-face {
     font-family: 'Gotham light';
-    src: url('/fonts/GothamCond-Light.woff2') format('woff2'),
-    url('/fonts/GothamCond-Light.woff') format('woff');
+    src: url('../fonts/GothamCond-Light.woff2') format('woff2'),
+    url('../fonts/GothamCond-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -81,8 +81,8 @@ dd {
 
 @font-face {
     font-family: 'Gotham Book italic';
-    src: url('/fonts/GothamCond-BoldItalic.woff2') format('woff2'),
-    url('/fonts/GothamCond-BoldItalic.woff') format('woff');
+    src: url('../fonts/GothamCond-BoldItalic.woff2') format('woff2'),
+    url('../fonts/GothamCond-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
