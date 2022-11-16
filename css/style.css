@@ -1459,3 +1459,58 @@ body {
     padding: 20px 0px 15px 0px;
 
 }
+
+
+
+
+
+
+
+
+
+@media (max-width: 1300px){
+    /*all*/
+    .container{
+        width: 1000px;
+    }
+
+    /*/homefront*/
+
+    .homefront-content_title p{
+        font-size: 35px;
+    }
+    .homefront-content_title span{
+        font-size: 13px;
+    }
+    .homefront-content_subtitle {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .homefront-content_description {
+        font-size: 14px;
+    }
+
+    .homefront_buttons a {
+    font-size: 11px;
+    }
+    .homefront {
+        margin-bottom: 535px;
+    }
+
+
+    /*social*/
+
+    .social_content {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+    .blog_title.three{
+        margin-top: 20px;
+        display: flex;
+    justify-content: center;
+    }
+}
